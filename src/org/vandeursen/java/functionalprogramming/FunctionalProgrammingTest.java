@@ -13,6 +13,7 @@ public class FunctionalProgrammingTest {
         System.out.println(isPrime(3));
         System.out.println(isPrime(4));
         System.out.println(isPrime(5));
+        System.out.println(isPrime(6));
 
         //Find the double of the first even number greater than 3
         List<Integer> values = Arrays.asList(1,2,3,5,4,6,7,8,9,10);
