@@ -1,1 +1,1 @@
-A sample using Java Lambda functions
+A sample using Java Lambda functions.
